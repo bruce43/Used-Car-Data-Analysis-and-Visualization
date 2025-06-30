@@ -35,6 +35,57 @@ Q8. Where Do the Most Expensive Cars Belong in Terms of Brand and Fuel Type?
 Q9. How does the car's year correlate with asking price?
 ![image](https://github.com/user-attachments/assets/87ef38ed-c4cc-4b98-9430-eae32d75a35a)
 
+# 🚗 Car Data Visualization Project
+
+## 📊 Overview
+
+This repository contains a comprehensive **data visualization project** performed using Python and popular data analysis libraries. The analysis is based on a used car dataset and explores trends in price, brand, fuel type, transmission, and other factors.
+
+The entire project was built using:
+- 🐍 **Python**
+- 🔢 **NumPy**
+- 🧮 **Pandas**
+- 📊 **Matplotlib**
+- 🌈 **Seaborn**
+
+---
+
+## ❓ Key Questions & Visuals
+
+📌 Each question below is visualized using plots in the notebook:
+
+1. **💰 How Do Prices Vary for Different Owners Across Different Fuel Types?**  
+   📸 *(Visual Included)*
+
+2. **🏷️ Which Brand Has the Highest Number of Cars Listed?**  
+   📸 *(Visual Included)*
+
+3. **📆 Which Year Has the Highest Asking Price for Cars?**  
+   📸 *(Visual Included)*
+
+4. **⚙️ How Many Cars Are Available for Each Transmission Type (Manual vs. Automatic)?**  
+   📸 *(Visual Included)*
+
+5. **💵 What Is the Average Price of Cars by Brand?**  
+   📸 *(Visual Included)*
+
+6. **⛽ What Is the Average Price of Cars by Fuel Type?**  
+   📸 *(Visual Included)*
+
+7. **🕒 Which Year Has the Highest and Lowest Number of Cars Listed?**  
+   📸 *(Visual Included)*
+
+8. **🚘 Where Do the Most Expensive Cars Belong in Terms of Brand and Fuel Type?**  
+   📸 *(Visual Included)*
+
+9. **🔁 How Does the Car's Year Correlate with Asking Price?**  
+   📸 *(Visual Included)*
+
+---
+
+## 🗂 Project Structure
+
+
 
 
 
